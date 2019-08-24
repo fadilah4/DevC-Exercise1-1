@@ -1,0 +1,21 @@
+head {
+    margin: 50;
+    padding: 5;
+}
+h1 {
+    background: white;
+}
+
+
+.bio{
+    background: blue;
+    border: 1px solid black;
+    margin: 30px;
+    padding : 2rem;
+
+}
+
+marquee{
+    background: white
+}
+
